@@ -1,0 +1,6 @@
+﻿  vars.cpp
+c:\users\hassan\documents\visual studio 2015\projects\cpp_tuts\vars.cpp(54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hassan\documents\visual studio 2015\projects\cpp_tuts\vars.cpp(19): warning C4101: 'p': unreferenced local variable
+c:\users\hassan\documents\visual studio 2015\projects\cpp_tuts\vars.cpp(18): warning C4101: 'l': unreferenced local variable
+  cpp_tuts.vcxproj -> C:\Users\Hassan\Documents\Visual Studio 2015\Projects\cpp_tuts\Debug\cpp_tuts.exe
+  cpp_tuts.vcxproj -> C:\Users\Hassan\Documents\Visual Studio 2015\Projects\cpp_tuts\Debug\cpp_tuts.pdb (Full PDB)
